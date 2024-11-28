@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Sitemaps
+Sitemap: https://www.mydrivingschools.com/sitemap.xml
